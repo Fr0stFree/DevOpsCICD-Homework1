@@ -108,3 +108,4 @@ jobs:
           context: ./frontend/
           push: true
           tags: frostfree/taski_frontend:latest
+  
